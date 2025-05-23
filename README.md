@@ -29,7 +29,7 @@
 <body>
 
   <h1>Portafolio Digital - Educación Física</h1>
-  <p><strong>Nombre:</strong> [Tu Nombre Completo] <br>
+  <p><strong>Nombre:</strong> [Madia Díaz Becerra] <br>
      <strong>Grado:</strong> II Secundaria <br>
      <strong>Docente:</strong> Tomás Vargas Barreto</p>
 
