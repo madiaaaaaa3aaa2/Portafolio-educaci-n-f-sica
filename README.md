@@ -39,7 +39,7 @@
     Le saludo cordialmente. Le envío mi <strong>portafolio digital del primer trimestre</strong> del curso de Educación Física. En él he incluido las actividades, reflexiones, evidencias y aprendizajes desarrollados durante el periodo, organizados por competencias.<br>
     Muchas gracias por su dedicación.<br><br>
     Atentamente,<br>
-    [Tu Nombre]
+    [Madia]
     </p>
   </section>
 
